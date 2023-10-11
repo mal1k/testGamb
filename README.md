@@ -11,6 +11,7 @@
 <br>• виконати docker compose up -d 
 <br>• далі потрібно перейти в папку src <code>cd src</code>
 <br>• виконуємо <code>make init</code>
+<br>• заповнюємо .env файл
 <br>• переходимо на http://localhost для того щоб додати таблицю до БД
 <br>• у файлі index.php розкоментовуємо 18 строку
 <br>• переходимо на http://localhost
